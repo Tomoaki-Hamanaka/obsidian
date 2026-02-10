@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian cache / workspace (競合しやすい)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/graph.json
+
+# プラグインが生成するもの（必要に応じて）
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache/
+
+# ごみ箱系（使っていれば）
+.trash/

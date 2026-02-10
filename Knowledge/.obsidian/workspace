@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "5b816b62072844d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5007094be7abd695",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "再認ヒューリスティック.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b02253df9ec33227",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "74f317cf36f86ab3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "5259d88c63aee167",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "70e1930342f8144f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "197773bdd2e30309",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "再認ヒューリスティック.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "75c8d47b8f4c3ae4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "再認ヒューリスティック.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5007094be7abd695",
+  "lastOpenFiles": [
+    "再認ヒューリスティック.md",
+    "2021-12-08.md",
+    "経営戦略.md",
+    "Daily notes/2021-12-07.md",
+    "Daily notes/2021-12-06.md",
+    "DX.md",
+    "Daily notes/20211204.md",
+    "Daily notes/20211205.md",
+    "2021-12-05.md",
+    "Industry 4.0.md"
+  ]
+}

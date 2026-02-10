@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "78456a6eb4887aca",
+    "type": "split",
+    "children": [
+      {
+        "id": "76c35aae7f427f12",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "node hotel.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f224bf641b9b30b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a73803141072128",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5005a72a3e23755",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef381ba53b3a91ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "235a280728fe0226",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f0249180201e46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a0cd3bff04cae29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "node hotel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "76c35aae7f427f12",
+  "lastOpenFiles": [
+    "node hotel.md",
+    "artist/五木田智央.md",
+    "artist/今津景.md"
+  ]
+}
